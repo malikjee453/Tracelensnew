@@ -1,0 +1,3 @@
+# Optional image AI screening. Install only if your deployment has sufficient memory.
+transformers>=4.40
+torch>=2.2
